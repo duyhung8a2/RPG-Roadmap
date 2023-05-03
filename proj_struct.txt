@@ -1,0 +1,33 @@
+frontend
+ ┃ ┣ types
+ ┃ ┃ ┗ app
+ ┃ ┃ ┃ ┣ layout.ts
+ ┃ ┃ ┃ ┗ page.ts
+ ┃ ┣ app-build-manifest.json
+ ┃ ┣ build-manifest.json
+ ┃ ┣ fallback-build-manifest.json
+ ┃ ┣ package.json
+ ┃ ┣ react-loadable-manifest.json
+ ┃ ┗ trace
+ ┣ public
+ ┃ ┣ next.svg
+ ┃ ┗ vercel.svg
+ ┣ src
+ ┃ ┗ app
+ ┃ ┃ ┣ api
+ ┃ ┃ ┃ ┗ hello
+ ┃ ┃ ┃ ┃ ┗ route.ts
+ ┃ ┃ ┣ favicon.ico
+ ┃ ┃ ┣ globals.css
+ ┃ ┃ ┣ layout.tsx
+ ┃ ┃ ┗ page.tsx
+ ┣ .eslintrc.json
+ ┣ .gitignore
+ ┣ next-env.d.ts
+ ┣ next.config.js
+ ┣ package-lock.json
+ ┣ package.json
+ ┣ postcss.config.js
+ ┣ README.md
+ ┣ tailwind.config.js
+ ┗ tsconfig.json
